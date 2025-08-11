@@ -18,15 +18,15 @@ In this work, we propose a deep learning-based framework that integrates U-Net a
 pytorch(GPU)
 
 - matplotlib==3.6.2
-- numpy==1.24.3
+- numpy==1.24.4
 - opencv-python==4.6.0.66
 - Pillow==10.4.0
 - scikit-learn==1.3.2
-- torch==1.13.0
+- torch==2.3.1
 - torchsummary==1.5.1
-- torchvision==0.14.0
+- torchvision==0.18.1
 - torchviz==0.0.2
-- tqdm==4.64.1
+- tqdm==4.66.4
 
 ## Datasets and Pretrained models
 - There are only five examples here, please download more data from [here](https://drive.google.com/drive/folders/1fUJfDaT9AhGjterCJdWvqeex8Ypo58gt?usp=sharing).
