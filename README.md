@@ -3,7 +3,8 @@
 ## Introduction
 
 Unmanned Aerial Vehicles (UAVs) have emerged as critical enablers of next-generation wireless communication networks, offering flexible deployment and wide-area coverage. However, the dynamic and complex nature of aerial environments poses significant challenges for accurate regional Received Signal Strength (RSS) estimation, i.e. the coverage, which is essential for reliable UAV communication and network planning. Traditional modeling approaches are usually complex to capture the spatial variability and dependencies present in real-world scenarios. 
-﻿
+
+ 
 In this work, we propose a deep learning-based framework that integrates U-Net and Vision Transformer (ViT) architectures to estimate the regional RSS of UAV communication systems with high spatial resolution, where the U-Net provides strong local feature extraction and spatial detail preservation through its encoder-decoder design, as well as ViT captures global context and long-range dependencies via self-attention mechanisms. By leveraging the complementary strengths of both architectures, the proposed hybrid model U-Net-ViT enhances the accuracy and generalization of regional RSS estimation in complex environments.
 
 <br>
